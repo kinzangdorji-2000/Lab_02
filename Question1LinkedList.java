@@ -86,7 +86,7 @@ class Node{
 		next = e;
 	}
 }
-public class Question1
+public class Question1LinkedList
 {
 	public static void main(String[] args)
     {

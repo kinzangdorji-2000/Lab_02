@@ -112,7 +112,7 @@ class Node{
 		next = e;
 	}
 }
-public class Question2
+public class Question2LinkedList
 {
 
 	public static void main(String[] args) 
